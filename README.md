@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Siva Saradhe!
 
-<!--
-**Saradhe07/Saradhe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Engineer & Developer**  
+🚀 Passionate about Python, SQL Server, and .NET Technologies  
+📊 Exploring Data Science, Power BI, and API Automation  
+🌱 Always learning, always evolving  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, C#, SQL  
+- **Frameworks:** .NET Core, ADO.NET  
+- **Tools:** Power BI, Excel Automation, Git, VS Code  
+- **Databases:** SQL Server, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ✨ “Code. Learn. Evolve. Repeat.”
+
