@@ -1,18 +1,37 @@
-# 👋 Hi, I'm Siva Saradhe!
+# 👋 Hi, I'm Siva Saradhe
+🚀 Aspiring Software Developer
 
-**Aspiring Data Engineer & Developer**  
-🚀 Passionate about Data Science, Big Data, Python, SQL Server, and .NET Technologies
-📊 Exploring Power BI and API Automation
-🌱 Always learning, always evolving
-
-### 🛠️ Tech Stack
-- **Languages:** Python, C, C#, SQL  
-- **Tools:** Power BI, Excel Automation, Git, VS Code  
-- **Databases:** SQL Server, MySQL  
+I’m passionate about building efficient, scalable applications and continuously improving my development skills.
+Currently focused on backend development, problem-solving, and data-driven applications.
 
 ### 🛠️ Tech Stack
-- 🔍 Learning advanced data engineering concepts  
-- 💡 Exploring new tools to improve productivity and scalability
+Languages
+
+- Python | C | C# | SQL
+
+Databases
+
+- SQL Server | MySQL
+
+Tools & Platforms
+
+- Power BI
+
+- Excel Automation
+
+- Git & GitHub
+
+-VS Code
+
+### 🌱 What I’m Working On
+
+- Strengthening core software development concepts
+
+- Building backend systems using .NET & Python
+
+- Writing clean, testable, and efficient code
+
+- Exploring Power BI for data visualization
 
   
 > ✨ “Code. Learn. Evolve. Repeat.”
