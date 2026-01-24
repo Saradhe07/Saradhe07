@@ -33,6 +33,7 @@ Tools & Platforms
 
 - Exploring Power BI for data visualization
 
-  
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saradhe07&show_icons=true&theme=tokyonight)
+
 > ✨ “Code. Learn. Evolve. Repeat.”
 
