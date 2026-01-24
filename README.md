@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Siva Saradhe
-🚀 Aspiring Software Developer
+###🚀 Aspiring Software Developer
 
 I’m passionate about building efficient, scalable applications and continuously improving my development skills.
 Currently focused on backend development, problem-solving, and data-driven applications.
@@ -27,8 +27,6 @@ Tools & Platforms
 
 ### 🌱 What I’m Working On
 
-🌱 What I’m Working On
-
 - Strengthening core software development concepts
 
 - Writing clean, testable, and efficient Python code
@@ -38,7 +36,9 @@ Tools & Platforms
 - Creating dashboards and insights using Power BI & Tableau
 
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saradhe07&layout=compact&theme=tokyonight)
+
 
 
 
