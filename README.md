@@ -7,21 +7,21 @@ Currently focused on backend development, problem-solving, and data-driven appli
 ### 🛠️ Tech Stack
 Languages
 
-- Python | C | C# | SQL
+    - Python | C | C# | SQL
 
 Databases
 
-- SQL Server | MySQL
+    - SQL Server | MySQL
 
 Tools & Platforms
 
-- Power BI
+    - Power BI
 
-- Excel Automation
+    - Excel Automation
 
-- Git & GitHub
+    - Git & GitHub
 
--VS Code
+    - VS Code
 
 ### 🌱 What I’m Working On
 
