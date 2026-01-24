@@ -7,7 +7,7 @@ Currently focused on backend development, problem-solving, and data-driven appli
 ### 🛠️ Tech Stack
 Languages
 
-    - Python | C | C# | SQL
+    - Python | SQL
 
 Databases
 
@@ -19,19 +19,23 @@ Tools & Platforms
 
     - Excel Automation
 
+    - Tableau
+    
     - Git & GitHub
 
     - VS Code
 
 ### 🌱 What I’m Working On
 
+🌱 What I’m Working On
+
 - Strengthening core software development concepts
 
-- Building backend systems using .NET & Python
+- Writing clean, testable, and efficient Python code
 
-- Writing clean, testable, and efficient code
+- Working with databases and SQL for real-world applications
 
-- Exploring Power BI for data visualization
+- Creating dashboards and insights using Power BI & Tableau
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saradhe07&layout=compact&theme=tokyonight)
