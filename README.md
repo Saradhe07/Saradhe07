@@ -34,7 +34,8 @@ Tools & Platforms
 - Exploring Power BI for data visualization
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saradhe07&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saradhe07&layout=compact&theme=tokyonight)
+
 
 
 > ✨ “Code. Learn. Evolve. Repeat.”
