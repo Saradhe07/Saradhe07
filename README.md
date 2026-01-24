@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Siva Saradhe
-###🚀 Aspiring Software Developer
+### 🚀 Aspiring Software Developer
 
 I’m passionate about building efficient, scalable applications and continuously improving my development skills.
 Currently focused on backend development, problem-solving, and data-driven applications.
