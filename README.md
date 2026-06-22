@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Siva Saradhe
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Siva Saradhe
+=====================================================================================================================================
+
+Driven by curiosity, powered by code.
+-------------------------------------
+
+A lifelong learner dedicated to building skills, creating impactful projects, and growing in the tech industry.
 # ⭐ About Me:
-👩‍💻 Technology enthusiast with a strong interest in software development.<br>🐍 Passionate about Python programming and backend development.<br>🌐 Learning FastAPI, REST APIs, SQL, and modern web technologies.<br>📊 Interested in Artificial Intelligence, Machine Learning, and data-driven solutions.<br>🔍 Enjoy solving problems and improving analytical thinking through Data Structures and Algorithms.<br>📚 Continuous learner who enjoys exploring new technologies and development tools.<br>🚀 Working towards becoming a skilled Python Developer and Software Engineer.<br>💡 Believe in building practical solutions that create real-world impact.<br>🤝 Enjoy teamwork, collaboration, and knowledge sharing.<br>🎯 Goal-oriented, self-motivated, and committed to personal and professional growth.<br>🌱 Always looking for opportunities to learn, build, and innovate.<br>✨ Aspiring to become an independent, confident, and successful woman in technology.
+👩‍💻 Technology enthusiast with a strong interest in software development.<br>🐍 Passionate about Python programming and backend development.<br>📊 Interested in Artificial Intelligence, Machine Learning, and data-driven solutions.<br>🔍 Enjoy solving problems and improving analytical thinking through Data Structures and Algorithms.<br>📚 Continuous learner who enjoys exploring new technologies and development tools.<br>🚀 Working towards becoming a skilled Python Developer and Software Engineer.<br>💡 Believe in building practical solutions that create real-world impact.<br>🤝 Enjoy teamwork, collaboration, and knowledge sharing.<br>🎯 Goal-oriented, self-motivated, and committed to personal and professional growth.<br>🌱 Always looking for opportunities to learn, build, and innovate.<br>✨ Aspiring to become an independent, confident, and successful woman in technology.
 
 <p align="left">
 </p>
@@ -10,15 +16,10 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Saradhe07&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Saradhe07&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saradhe07&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Saradhe07&icon=9&color=0)](https://visitcount.itsvg.in)
 
-
+ ✉️  You can contact me at [rsivasaradhe@gmail.com](mailto:rsivasaradhe@gmail.com)
