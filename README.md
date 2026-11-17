@@ -4,7 +4,7 @@
 
 ### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="waving hand" /> Driven by curiosity, powered by code.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=E75480&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;Backend+%7C+AI+%26+ML+%7C+Data;Code.+Learn.+Repeat." alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=E75480&center=true&vCenter=true&width=600&lines=Data+scientist;Backend+%7C+AI+%26+ML+%7C+Python;Code.+Learn.+Repeat." alt="Typing headline" />
 
 <img src="https://media.giphy.com/media/IoN96AXZkuEjE9XhQK/giphy.gif" width="380" alt="Rapunzel from Tangled, excited" />
 
