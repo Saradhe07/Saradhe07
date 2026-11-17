@@ -1,33 +1,119 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Siva Saradhe
-=====================================================================================================================================
+<div align="center">
 
-Driven by curiosity, powered by code.
--------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE029,100:2F5D8C&height=140&section=header&text=Siva%20Saradhe&fontSize=46&fontColor=1F2937&fontAlignY=38&animation=fadeIn" width="100%" alt="Siva Saradhe" />
 
-A lifelong learner dedicated to building skills, creating impactful projects, and growing in the tech industry.
-# ⭐ About Me:
-👩‍💻 Technology enthusiast with a strong interest in software development.<br>🐍 Passionate about Python programming and backend development.<br>📊 Interested in Artificial Intelligence, Machine Learning, and data-driven solutions.<br>🔍 Enjoy solving problems and improving analytical thinking through Data Structures and Algorithms.<br>📚 Continuous learner who enjoys exploring new technologies and development tools.<br>🚀 Working towards becoming a skilled Python Developer and Software Engineer.<br>💡 Believe in building practical solutions that create real-world impact.<br>🤝 Enjoy teamwork, collaboration, and knowledge sharing.<br>🎯 Goal-oriented, self-motivated, and committed to personal and professional growth.<br>🌱 Always looking for opportunities to learn, build, and innovate.<br>✨ Aspiring to become an independent, confident, and successful woman in technology.
+### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="waving hand" /> Driven by curiosity, powered by code.
 
-## Tech stacks
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=F4C20D&center=true&vCenter=true&width=600&lines=Aspiring+Python+Developer;Backend+%7C+AI+%26+ML+%7C+Data;Code.+Learn.+Repeat." alt="Typing headline" />
+
+<img src="https://media.giphy.com/media/1MTLxzwvOnvmE/giphy.gif" width="380" alt="Two Minions dancing happily" />
+
+<p>
+  <a href="https://www.linkedin.com/in/sivasaradhe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/saradhe_0707"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:rsivasaradhe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Saradhe07&label=Profile+views&color=F4C20D&style=flat" alt="Profile views" />
 
-## Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/Saradhe07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sivasaradhe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/saradhe_0707" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+## 💛 About me
 
+<table>
+  <tr>
+    <td width="62%" valign="middle">
 
+A lifelong learner building skills, shipping projects and growing toward a career as a Python developer and software engineer.
 
+- 🐍 **Focus:** Python and backend development
+- 🤖 **Interests:** artificial intelligence, machine learning and data-driven solutions
+- 🧩 **Practising:** data structures and algorithms to sharpen problem solving
+- 🤝 **Values:** teamwork, knowledge sharing and practical solutions with real-world impact
+- 🌱 **Goal:** to grow into an independent, confident and successful woman in technology
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/H5BRXzt5Vaaozr1h9s/giphy.gif" width="230" alt="Minion taking notes" />
+      <br />
+      <sub><i>Always taking notes 📝</i></sub>
+    </td>
+  </tr>
+</table>
 
-## Badges
+## 🛠️ Tech stack
 
-<a href="https://github.com/Saradhe07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saradhe07&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
----
-[![](https://komarev.com/ghpvc/?username=Saradhe07&icon=9&color=0)](https://visitcount.itsvg.in)
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Languages & frameworks</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=py,c,cs,fastapi,nodejs,react,html,css,tailwind&perline=9" alt="Languages and frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>AI, data & tools</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,sqlite,docker,gcp,git,vscode&perline=9" alt="AI, data and tools" />
+    </td>
+  </tr>
+</table>
 
- ✉️  You can contact me at [rsivasaradhe@gmail.com](mailto:rsivasaradhe@gmail.com)
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📚 [StudyTrack](https://github.com/Saradhe07/studytrack) | Study management platform with a student and course roster, hand-written sorting and search algorithms, and an offline AI assistant for note summaries and semantic search | Python, FastAPI, SQLite |
+| 🧾 [Tally Prime Data Extraction](https://github.com/Saradhe07/Automated-Financial-Data-Extraction-from-Tally-Prime-using-Python) | Pulls ledgers, vouchers and balances out of Tally Prime over XML/HTTP and visualises them in a web interface | Python |
+| 🤟 [Sign Language Prediction](https://github.com/Saradhe07/Sign-Language-Prediction) | Real-time sign language detection and translation to support people with autism spectrum disorder | Python, computer vision |
+| 💳 [NBFC Loan Default](https://github.com/Saradhe07/NBFC-Loan-Default) | Predicts loan default risk with LightGBM, feature engineering and cross-validation | Python, LightGBM |
+| 🎬 [Netflix Content Analysis](https://github.com/Saradhe07/Netflix-Movies-and-TV-Shows-Analysis-Projects) | Trends in Netflix titles by type, genre, country and rating | Pandas, Seaborn |
+| 🍲 [Recipe Management System](https://github.com/Saradhe07/RecipeManagementSystem) | Add, view and search recipes by Veg and Non-Veg category, built with OOP | Python |
+
+## 📊 GitHub stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saradhe07&theme=tokyonight" width="100%" alt="Repos per language" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saradhe07&theme=tokyonight" width="100%" alt="Most committed languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=Saradhe07&theme=tokyonight&hide_border=true" width="80%" alt="Contribution streak" />
+    </td>
+  </tr>
+</table>
+
+## ✍️ Random dev quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+
+## 🤝 Let's connect
+
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/bh4jzePjmd9iE/giphy.gif" width="230" alt="Minion at a keyboard holding a banana" />
+    </td>
+    <td width="62%" valign="middle">
+
+Open to internships, collaborations and conversations about Python, backend and AI.
+
+📧 [rsivasaradhe@gmail.com](mailto:rsivasaradhe@gmail.com)<br />
+💼 [LinkedIn](https://www.linkedin.com/in/sivasaradhe)<br />
+🎮 [Discord](https://discord.com/users/saradhe_0707)
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+  <b>💛 Thanks for visiting! 💛</b>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5D8C,100:FCE029&height=110&section=footer" width="100%" alt="" />
+</div>
